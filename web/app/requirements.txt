@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+dash-bootstrap-components
+sqlalchemy
+mysql-connector-python
+xgboost
+shap
+scikit-learn
