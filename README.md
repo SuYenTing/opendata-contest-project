@@ -2,17 +2,17 @@
 
 * [2021資料創新應用競賽官方網站](https://opendata-contest.tca.org.tw/)
 
-![](https://github.com/SuYenTing/tibame_project/blob/main/image/poster.png)
+![](https://github.com/SuYenTing/opendata-contest-project/blob/main/image/poster.png)
 
 ## 服務相關連結
 
 * [Circle of Life: 少子女化保衛戰](http://3.13.171.111/)
-* [專題閃電秀影片](https://www.youtube.com/watch?v=9o5-INL75sw)
-* [專題PPT](https://github.com/SuYenTing/tibame_project/tree/main/ppt)
+* [競賽閃電秀影片](https://youtu.be/MyD9GHOsgio)
+* [專題PPT](https://github.com/SuYenTing/opendata-contest-project/blob/main/ppt/presentation_ppt.pdf)
 
 ## 服務架構
 
-![](https://github.com/SuYenTing/tibame_project/blob/main/image/architecture.png)
+![](https://github.com/SuYenTing/opendata-contest-project/blob/main/image/architecture.png)
 
 ## 程式檔案說明
 
